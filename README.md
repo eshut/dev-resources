@@ -155,6 +155,7 @@
  <img src="https://www.google.com/s2/favicons?domain=https://simpleanalytics.com/&sz=128" width="16" /> | [Simple Analytics](https://simpleanalytics.com/) | Simple Analytics gives you the analytics you need without invading the privacy of your users, with a clean interface, and simple integration. GDPR, CCPA and, PECR compliant because we don't handle PII... |  |
  <img src="https://www.google.com/s2/favicons?domain=https://splitbee.io&sz=128" width="16" /> | [Splitbee](https://splitbee.io) | Splitbee provides Analytics, Automation, User Funnel and A/B Testing. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://swetrix.com&sz=128" width="16" /> | [Swetrix](https://swetrix.com) | Swetrix is a privacy-focused, fully cookieless and opensource web analytics service with a free tier for small websites. | analytics, marketing, web analytics, privacy, opensource |
+ <img src="https://www.google.com/s2/favicons?domain=https://schedles.com&sz=128" width="16" /> | [Schedles](https://schedles.com) | The ultimate content creator tool for seamless social media scheduling, AI-generated post ideas, and cross-platform automation to save time and boost engagement. | Scheduling, Automation, Marketing, Instagram, Threads, TikTok, planning, Youtube |
 
 **[⬆ Back to Index](#index)**
 
